@@ -1,0 +1,3 @@
+[submodule "microMsg-bot"]
+	path = microMsg-bot
+	url = git@github.com:qwIvan/microMsg-bot.git
